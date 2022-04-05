@@ -1,1 +1,1 @@
-  if(a > 0) {
+  char s2[] = "HelloWorld.";
